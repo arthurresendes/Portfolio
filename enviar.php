@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mensagem = htmlspecialchars($_POST["msg"]);
 
     // Endereço de e-mail para onde as mensagens serão enviadas
-    $para = "arthur.resende.gomes02@gmail.com"; // Substitua pelo seu e-mail
+    $para = "arthur.resende.gomes02@gmail.com"; 
     $assunto = "Novo contato de $nome";
 
     // Conteúdo do e-mail
