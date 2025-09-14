@@ -379,7 +379,17 @@ section.portfolio a {
     text-decoration: none;
     color: white;
 }
+span#blue{
+    color: rgb(59, 81, 248);
+}
 
+span#laranja{
+    color: #ffb941;
+}
+
+span#green{
+    color: rgb(52, 255, 76);
+}
 #blue:hover {
     text-decoration: underline;
     color: rgb(59, 81, 248);
@@ -389,6 +399,12 @@ section.portfolio a {
 #laranja:hover {
     text-decoration: underline;
     color: #ffb941;
+    transition-duration: .5s;
+}
+
+#yellow:hover {
+    text-decoration: underline;
+    color: #efff41;
     transition-duration: .5s;
 }
 
