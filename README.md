@@ -32,7 +32,7 @@ Confira alguns dos projetos que desenvolvi e participei:
 ---
 
 ## 🌐 Links & Contatos
-- [LinkedIn](www.linkedin.com/in/arthur-resende-gomes-3312bb305)
+- [LinkedIn](https://www.linkedin.com/in/arthur-resende-gomes-3312bb305/)
 - [GitHub](https://github.com/arthurresendes)
 - Email: arthur.resende.gomes02@email.com  
 Sinta-se à vontade para me chamar para conversar, trocar ideias ou sugerir parcerias!
