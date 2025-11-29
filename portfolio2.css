@@ -12,9 +12,9 @@ body {
     height: 100vh;
 }
 
-.red {
+.purple {
     text-transform: uppercase;
-    color: rgba(248, 76, 76, 0.685);
+    color: rgba(136, 76, 248, 0.685);
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .meusprojetos span {
-    color: yellow;
+    color: blue;
 }
 
 .meusprojetos p {
@@ -66,7 +66,7 @@ body {
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-image: linear-gradient(90deg, yellow, rgba(255, 0, 0, 0.5));
+    background-image: linear-gradient(90deg, rgb(0, 119, 255), rgba(55, 0, 255, 0.5));
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -74,7 +74,7 @@ body {
 
 button:hover,
 form .btn-enviar input:hover {
-    box-shadow: 0px 0px 8px yellow;
+    box-shadow: 0px 0px 8px rgb(140, 0, 255);
     transform: scale(1.05);
     transition: .2s;
 }
@@ -86,7 +86,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: yellow;
+    color: blue;
 }
 
 /*Estilo cabeçalho*/
@@ -110,9 +110,9 @@ header a {
 }
 
 header nav.menu-desktop a:hover {
-    color: rgb(164, 8, 8);
+    color: rgb(140, 0, 255);
     transform: scale(1.05);
-    border-bottom: 1px solid rgb(249, 111, 111);
+    border-bottom: 1px solid rgb(159, 111, 249);
 }
 
 header nav ul {
@@ -136,7 +136,7 @@ header nav.menu-desktop ul li {
 }
 
 .btn-abrir-menu i {
-    color: yellow;
+    color: blue;
     font-size: 40px;
 }
 
