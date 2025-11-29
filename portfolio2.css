@@ -94,6 +94,15 @@ h2.titulo span {
     color: rgba(66, 66, 221, 0.897);
 }
 
+.portfolio .projetos1 span{
+    color: rgba(66, 66, 221, 0.897)
+}
+#proj:hover{
+    text-decoration: underline;
+    color: rgb(108, 176, 240);
+    transition-duration: .5s;
+}
+
 /*Estilo cabeçalho*/
 header {
     padding: 40px 4%;
@@ -380,40 +389,6 @@ section.portfolio {
 section.portfolio a {
     text-decoration: none;
     color: white;
-}
-span#blue{
-    color: rgb(59, 81, 248);
-}
-
-span#laranja{
-    color: #ffb941;
-}
-
-span#green{
-    color: rgb(52, 255, 76);
-}
-#blue:hover {
-    text-decoration: underline;
-    color: rgb(59, 81, 248);
-    transition-duration: .5s;
-}
-
-#laranja:hover {
-    text-decoration: underline;
-    color: #ffb941;
-    transition-duration: .5s;
-}
-
-#yellow:hover {
-    text-decoration: underline;
-    color: #efff41;
-    transition-duration: .5s;
-}
-
-#green:hover {
-    text-decoration: underline;
-    color: rgb(52, 255, 76);
-    transition-duration: .5s;
 }
 
 
