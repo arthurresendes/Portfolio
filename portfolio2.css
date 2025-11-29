@@ -66,7 +66,7 @@ body {
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-image: linear-gradient(90deg, rgb(0, 119, 255), rgba(55, 0, 255, 0.5));
+    background-image: linear-gradient(90deg, rgb(135, 191, 255), rgba(66, 41, 156, 0.5));
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -79,6 +79,11 @@ form .btn-enviar input:hover {
     transition: .2s;
 }
 
+.sobre .txt-sobre h2 span {
+    display: block;
+    color: rgba(41, 41, 250, 0.897);
+}
+
 h2.titulo {
     color: white;
     font-size: 38px;
@@ -86,7 +91,7 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: blue;
+    color: rgba(66, 66, 221, 0.897);
 }
 
 /*Estilo cabeçalho*/
@@ -136,7 +141,8 @@ header nav.menu-desktop ul li {
 }
 
 .btn-abrir-menu i {
-    color: blue;
+    cursor: pointer;
+    color: rgb(117, 161, 255);
     font-size: 40px;
 }
 
@@ -165,8 +171,8 @@ header nav.menu-desktop ul li {
 }
 
 .menu-mobile nav ul li a:hover {
-    background-color: yellow;
-    color: rgb(82, 7, 7);
+    background-color: rgb(117, 161, 255);
+    color: rgb(30, 7, 82);
 
 }
 
@@ -175,7 +181,8 @@ header nav.menu-desktop ul li {
 }
 
 .menu-mobile .btn-fechar i {
-    color: yellow;
+    cursor: pointer;
+    color: rgb(117, 161, 255);
     font-size: 50px;
 }
 
@@ -215,7 +222,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: yellow;
+    color: blue;
 }
 
 .topo-do-site .txt-topo-site p {
@@ -264,7 +271,7 @@ section.formulario{
 }
 
 .especialidades .especialidades-box i {
-    color: yellow;
+    color: rgb(160, 160, 245);
     font-size: 58px;
     display: flex;
     justify-content: center;
@@ -321,11 +328,6 @@ section.sobre .flex {
     margin-bottom: 30px;
 }
 
-.sobre .txt-sobre h2 span {
-    display: block;
-    color: yellow;
-}
-
 .sobre .txt-sobre p {
     margin: 20px 0;
     text-align: justify;
@@ -340,7 +342,7 @@ section.portfolio {
 .img-port {
     width: 360px;
     height: 390px;
-    background-color: yellow;
+    background-color: blue;
     background-size: cover;
     background-position: 100% 0%;
     transition: 2s;
@@ -459,7 +461,7 @@ form .btn-enviar {
 
 form .btn-enviar input {
     width: 120px;
-    background-image: linear-gradient(90deg, yellow, rgba(255, 0, 0, 0.5));
+    background-image: linear-gradient(90deg, rgb(135, 191, 255), rgba(66, 41, 156, 0.5));
     color: black;
     font-weight: 700;
     cursor: pointer;
@@ -485,7 +487,7 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid yellow;
+    border-top: 2px solid blue;
 }
 
 .btn-social button {
@@ -493,7 +495,7 @@ footer .line-footer {
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-image: linear-gradient(90deg, yellow, rgba(255, 0, 0, 0.5));
+    background-image: linear-gradient(90deg, rgb(135, 191, 255), rgba(66, 41, 156, 0.5));
     font-size: 22px;
     cursor: pointer;
     margin: 0 5px;
@@ -501,7 +503,7 @@ footer .line-footer {
 }
 
 footer .line-footer p i {
-    color: yellow;
+    color: blue;
     font-size: 22px;
 }
 
