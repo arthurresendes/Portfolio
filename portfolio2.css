@@ -12,10 +12,10 @@ body {
     height: 100vh;
 }
 
-.purple {
-    text-transform: uppercase;
-    color: rgba(136, 76, 248, 0.685);
-    font-weight: bold;
+:root {
+    --cor-titulos: #40a1ce;
+    --cor-items: #6cdcf0;
+    --cor-roxo: #884cf8af;
 }
 
 .interface {
@@ -25,16 +25,6 @@ body {
 
 #espacos {
     padding-top: 50px;
-}
-
-.meusprojetos {
-    color: white;
-    padding-bottom: 30px;
-}
-
-
-.meusprojetos p {
-    text-align: justify;
 }
 
 .flex {
@@ -88,15 +78,16 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #40a1ce;
+    color: var(--cor-titulos);
 }
 
-.portfolio .projetos1 span{
-    color: #40a1ce;
+.portfolio .projetos1 span {
+    color: var(--cor-titulos);
 }
-#proj:hover{
+
+#proj:hover {
     text-decoration: underline;
-    color: rgb(108, 176, 240);
+    color: --cor-items;
     transition-duration: .5s;
 }
 
@@ -148,7 +139,7 @@ header nav.menu-desktop ul li {
 
 .btn-abrir-menu i {
     cursor: pointer;
-    color: rgb(117, 161, 255);
+    color: var(--cor-items);
     font-size: 40px;
 }
 
@@ -228,7 +219,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: #247398;
+    color: var(--cor-titulos);
 }
 
 .topo-do-site .txt-topo-site p {
@@ -263,9 +254,9 @@ section.especialidades {
     padding: 40px 4%;
 }
 
-section.especialidades, 
-section.formulario{
-    background-image: linear-gradient(190deg, rgb(7, 7, 7),rgb(3, 3, 3));
+section.especialidades,
+section.formulario {
+    background-image: linear-gradient(190deg, rgb(7, 7, 7), rgb(3, 3, 3));
 }
 
 .especialidades .especialidades-box {
@@ -474,6 +465,7 @@ footer .line-footer {
     margin: 0 5px;
     transition: .2s;
 }
+
 
 footer .line-footer p i {
     color: rgb(20, 100, 248);
