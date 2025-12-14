@@ -81,7 +81,7 @@ form .btn-enviar input:hover {
 
 .sobre .txt-sobre h2 span {
     display: block;
-    color: rgba(66, 66, 221, 0.897);
+    color: #247398;;
 }
 
 h2.titulo {
@@ -91,11 +91,11 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: rgba(66, 66, 221, 0.897);
+    color: #247398;
 }
 
 .portfolio .projetos1 span{
-    color: rgba(66, 66, 221, 0.897)
+    color: #247398;;
 }
 #proj:hover{
     text-decoration: underline;
@@ -231,7 +231,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site h1 span {
-    color: blue;
+    color: #247398;
 }
 
 .topo-do-site .txt-topo-site p {
@@ -280,7 +280,7 @@ section.formulario{
 }
 
 .especialidades .especialidades-box i {
-    color: rgb(160, 160, 245);
+    color: #72cffb;
     font-size: 58px;
     display: flex;
     justify-content: center;
