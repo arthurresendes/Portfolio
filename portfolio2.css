@@ -355,6 +355,7 @@ section.portfolio {
     cursor: pointer;
     border-radius: 40px;
     position: relative;
+    text-align: center;
 }
 
 .img-port:hover {
