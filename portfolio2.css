@@ -13,7 +13,7 @@ body {
 }
 
 :root {
-    --cor-titulos: #40a1ce;
+    --cor-titulos: #35a7f8;
     --cor-items: #6cdcf0;
     --cor-roxo: #884cf8af;
 }
@@ -68,7 +68,7 @@ form .btn-enviar input:hover {
 
 .sobre .txt-sobre h2 span {
     display: block;
-    color: #40a1ce;
+    color: var(--cor-titulos);
 }
 
 h2.titulo {
@@ -81,13 +81,9 @@ h2.titulo span {
     color: var(--cor-titulos);
 }
 
-.portfolio .projetos1 span {
-    color: var(--cor-titulos);
-}
-
 #proj:hover {
     text-decoration: underline;
-    color: --cor-items;
+    color: var(--cor-items);
     transition-duration: .5s;
 }
 
@@ -179,7 +175,7 @@ header nav.menu-desktop ul li {
 
 .menu-mobile .btn-fechar i {
     cursor: pointer;
-    color: rgb(117, 161, 255);
+    color: var(--cor-items);
     font-size: 50px;
 }
 
@@ -256,7 +252,7 @@ section.especialidades {
 
 section.especialidades,
 section.formulario {
-    background-image: linear-gradient(190deg, rgb(7, 7, 7), rgb(3, 3, 3));
+    background-image: linear-gradient(180deg, rgb(7, 7, 7), rgba(14, 18, 43, 0.89),rgb(7, 7, 7),rgb(0, 0, 0));
 }
 
 .especialidades .especialidades-box {
@@ -268,7 +264,7 @@ section.formulario {
 }
 
 .especialidades .especialidades-box i {
-    color: #72cffb;
+    color: var(--cor-items);
     font-size: 58px;
     display: flex;
     justify-content: center;
@@ -280,7 +276,7 @@ section.formulario {
 }
 
 .especialidades .especialidades-box a:hover {
-    color: rgb(53, 167, 248);
+    color: var(--cor-items);
     transition: .3s;
 }
 
