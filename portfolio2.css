@@ -32,9 +32,6 @@ body {
     padding-bottom: 30px;
 }
 
-.meusprojetos span {
-    color: blue;
-}
 
 .meusprojetos p {
     text-align: justify;
@@ -81,7 +78,7 @@ form .btn-enviar input:hover {
 
 .sobre .txt-sobre h2 span {
     display: block;
-    color: #247398;;
+    color: #40a1ce;
 }
 
 h2.titulo {
@@ -91,11 +88,11 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #247398;
+    color: #40a1ce;
 }
 
 .portfolio .projetos1 span{
-    color: #247398;;
+    color: #40a1ce;
 }
 #proj:hover{
     text-decoration: underline;
@@ -124,9 +121,9 @@ header a {
 }
 
 header nav.menu-desktop a:hover {
-    color: rgb(140, 0, 255);
+    color: rgb(20, 100, 248);
     transform: scale(1.05);
-    border-bottom: 1px solid rgb(159, 111, 249);
+    border-bottom: 1px solid rgb(91, 149, 255);
 }
 
 header nav ul {
@@ -462,7 +459,7 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid blue;
+    border-top: 2px solid rgb(20, 100, 248);
 }
 
 .btn-social button {
@@ -478,7 +475,7 @@ footer .line-footer {
 }
 
 footer .line-footer p i {
-    color: blue;
+    color: rgb(20, 100, 248);
     font-size: 22px;
 }
 
