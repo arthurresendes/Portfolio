@@ -1,44 +1,49 @@
-# 👨‍💻 Meu Portfolio
+# 👨‍💻 Meu Portfólio
 
-Bem-vindo ao meu portfolio! Aqui você vai encontrar um pouco sobre mim, meus conhecimentos na área de tecnologia e exemplos dos meus projetos. Explore as seções abaixo para saber mais, ver meus trabalhos e interagir com os conteúdos!
+Bem-vindo ao meu portfólio! Aqui você encontra um pouco sobre minha trajetória, minhas principais tecnologias e alguns dos projetos que desenvolvi ao longo da faculdade, estudos e experiência profissional.
 
 ---
 
 ## 🧑 Sobre Mim
-Conheça minha trajetória, interesses, formação e experiências profissionais. Um espaço para apresentar quem sou, meus valores e objetivos.
+
+Sou estudante de Desenvolvimento de Software Multiplataforma pela FATEC Osasco e tenho maior afinidade com desenvolvimento back-end. Gosto de criar soluções que automatizem processos, desenvolver APIs e transformar ideias em aplicações que resolvam problemas reais.
 
 ---
 
 ## 💻 Conhecimentos Técnicos
-Veja as tecnologias e ferramentas que domino:
-- HTML
-- CSS
-- JavaScript
-- Python
-- C
-- SQL
-- Bootstrap
-- ...e muito mais!
+
+Algumas das tecnologias que utilizo no dia a dia:
+
+- Python (FastAPI, Django, Pandas, Selenium, PyAutoGUI e Streamlit)
+- React, JavaScript e TypeScript
+- Java (Design Patterns e SOLID)
+- SQL (MySQL, SQL Server e SQLite)
+- NoSQL (MongoDB e Firestore)
+- Git, GitHub, GitLab
+- Linux, GCP e metodologias ágeis (Scrum e Kanban)
 
 ---
 
 ## 🚀 Projetos
-Confira alguns dos projetos que desenvolvi e participei:
-- Sistemas web interativos
-- Automação com Python
-- Aplicações em C
-- Projetos de estudo e desafios pessoais
+
+Neste portfólio você encontrará projetos acadêmicos, pessoais e profissionais, incluindo:
+
+- APIs REST com Python e FastAPI
+- Automações utilizando Selenium, Pandas e PyAutoGUI
+- Sistemas web com React
+- Projetos envolvendo bancos de dados relacionais e NoSQL
+- Aplicações desenvolvidas durante meus estudos e desafios pessoais
 
 ---
 
-## 🌐 Links & Contatos
-- [LinkedIn](https://www.linkedin.com/in/arthur-resende-gomes-3312bb305/)
-- [GitHub](https://github.com/arthurresendes)
-- Email: arthur.resende.gomes02@email.com  
-Sinta-se à vontade para me chamar para conversar, trocar ideias ou sugerir parcerias!
+## 🌐 Contato
+
+- **LinkedIn:** <https://www.linkedin.com/in/arthur-resende-gomes-3312bb305/>
+- **GitHub:** <https://github.com/arthurresendes>
+- **E-mail:** arthur.resende.gomes02@email.com
+
+Fique à vontade para entrar em contato. Estou sempre aberto para trocar experiências, conversar sobre tecnologia e conhecer novos projetos.
 
 ---
 
----
-
-> Curtiu o conteúdo? Clique nos links do menu do site para interagir, navegar pelas páginas e descobrir tudo que meu portfolio tem para mostrar!
+⭐ Obrigado pela visita! Espero que meu portfólio ajude você a conhecer um pouco mais do meu trabalho e da minha evolução como desenvolvedor.
