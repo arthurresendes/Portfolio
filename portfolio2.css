@@ -272,11 +272,11 @@ section.formulario {
 }
 
 .especialidades .especialidades-box a {
-    color: white;
+    color: var(--cor-items);
 }
 
 .especialidades .especialidades-box a:hover {
-    color: var(--cor-items);
+    color: var(--cor-titulos);
     transition: .3s;
 }
 
