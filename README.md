@@ -39,10 +39,6 @@ Neste portfólio você encontrará projetos acadêmicos, pessoais e profissionai
 
 
 <a href="https://www.linkedin.com/in/arthur-resende-gomes"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="48"></a>
-<a href="https://arthurresendes.github.io/Portfolio/portfolio2.html"><img width="512" height="512" alt="Portfolio" src="https://github.com/user-attachments/assets/d69e8e66-c623-4367-9aec-c2b996e6e39a" /></a>
-
-- **Portfólio:** <https://arthurresendes.github.io/Portfolio/portfolio2.html>
+<a href="https://arthurresendes.github.io/Portfolio/portfolio2.html"><img alt="Portfolio" src="https://github.com/user-attachments/assets/d69e8e66-c623-4367-9aec-c2b996e6e39a" /></a>
 
 ---
-
-⭐ Obrigado pela visita! Espero que este portfólio mostre um pouco da minha evolução como desenvolvedor e da forma como gosto de transformar ideias em soluções por meio da tecnologia.
