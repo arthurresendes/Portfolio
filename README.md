@@ -38,7 +38,7 @@ Neste portfólio você encontrará projetos acadêmicos, pessoais e profissionai
 ## 🌐 Contato
 
 
-<a href="https://www.linkedin.com/in/arthur-resende-gomes"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="48"></a>
-<a href="https://arthurresendes.github.io/Portfolio/portfolio2.html"><img alt="Portfolio" src="https://github.com/user-attachments/assets/d69e8e66-c623-4367-9aec-c2b996e6e39a" /></a>
+<a href="https://www.linkedin.com/in/arthur-resende-gomes"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="48"></a> 
+<a href="https://arthurresendes.github.io/Portfolio/portfolio2.html"><img height="48" style="height: 48px; width: auto;" alt="Portfolio" src="https://github.com/user-attachments/assets/d69e8e66-c623-4367-9aec-c2b996e6e39a" /></a>
 
 ---
