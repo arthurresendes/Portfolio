@@ -1,49 +1,46 @@
 # 👨‍💻 Meu Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontra um pouco sobre minha trajetória, minhas principais tecnologias e alguns dos projetos que desenvolvi ao longo da faculdade, estudos e experiência profissional.
+Bem-vindo ao meu portfólio! Aqui compartilho um pouco da minha trajetória como desenvolvedor, minhas principais tecnologias e alguns dos projetos que desenvolvi durante a faculdade, estudos e experiência profissional. O objetivo é mostrar minha evolução e como aplico a tecnologia para resolver problemas e automatizar processos.
 
 ---
 
 ## 🧑 Sobre Mim
 
-Sou estudante de Desenvolvimento de Software Multiplataforma pela FATEC Osasco e tenho maior afinidade com desenvolvimento back-end. Gosto de criar soluções que automatizem processos, desenvolver APIs e transformar ideias em aplicações que resolvam problemas reais.
+Sou estudante de Desenvolvimento de Software Multiplataforma pela FATEC Osasco e atualmente estou no 4º semestre. Tenho maior afinidade com desenvolvimento back-end, principalmente utilizando Python para criação de APIs REST, automações e integração de sistemas. Também possuo experiência com desenvolvimento front-end em React, bancos de dados relacionais e NoSQL, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ---
 
-## 💻 Conhecimentos Técnicos
+## 💻 Tecnologias
 
-Algumas das tecnologias que utilizo no dia a dia:
+Algumas das tecnologias e ferramentas que utilizo:
 
-- Python (FastAPI, Django, Pandas, Selenium, PyAutoGUI e Streamlit)
-- React, JavaScript e TypeScript
-- Java (Design Patterns e SOLID)
-- SQL (MySQL, SQL Server e SQLite)
-- NoSQL (MongoDB e Firestore)
-- Git, GitHub, GitLab
-- Linux, GCP e metodologias ágeis (Scrum e Kanban)
+- **Back-end:** Python (FastAPI, Django), Java, APIs REST
+- **Front-end:** React, JavaScript e TypeScript
+- **Banco de Dados:** PostgreSQL, MySQL, SQL Server, SQLite, MongoDB e Firestore
+- **Automação:** Pandas, Selenium, PyAutoGUI e Streamlit
+- **Ferramentas:** Git, GitHub, GitLab, Linux e Google Cloud Platform (GCP)
+- **Metodologias:** Scrum, Kanban, SOLID e Design Patterns
 
 ---
 
 ## 🚀 Projetos
 
-Neste portfólio você encontrará projetos acadêmicos, pessoais e profissionais, incluindo:
+Neste portfólio você encontrará projetos acadêmicos, pessoais e profissionais, entre eles:
 
-- APIs REST com Python e FastAPI
-- Automações utilizando Selenium, Pandas e PyAutoGUI
-- Sistemas web com React
-- Projetos envolvendo bancos de dados relacionais e NoSQL
-- Aplicações desenvolvidas durante meus estudos e desafios pessoais
+- Gym Control – Sistema para gerenciamento de academias desenvolvido com React e FastAPI.
+- APIs REST desenvolvidas em Python com FastAPI.
+- Automações utilizando Selenium, Pandas, PyAutoGUI e Streamlit.
+- Sistemas Web desenvolvidos durante a faculdade e estudos pessoais.
+- Projetos envolvendo bancos de dados relacionais e NoSQL.
 
 ---
 
 ## 🌐 Contato
 
-- **LinkedIn:** <https://www.linkedin.com/in/arthur-resende-gomes-3312bb305/>
+- **LinkedIn:** <https://www.linkedin.com/in/arthur-resende-gomes/>
 - **GitHub:** <https://github.com/arthurresendes>
-- **E-mail:** arthur.resende.gomes02@email.com
-
-Fique à vontade para entrar em contato. Estou sempre aberto para trocar experiências, conversar sobre tecnologia e conhecer novos projetos.
+- **Portfólio:** <https://arthurresendes.github.io/Portfolio/portfolio2.html>
 
 ---
 
-⭐ Obrigado pela visita! Espero que meu portfólio ajude você a conhecer um pouco mais do meu trabalho e da minha evolução como desenvolvedor.
+⭐ Obrigado pela visita! Espero que este portfólio mostre um pouco da minha evolução como desenvolvedor e da forma como gosto de transformar ideias em soluções por meio da tecnologia.
