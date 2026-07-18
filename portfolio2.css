@@ -333,8 +333,8 @@ section.portfolio {
 }
 
 .img-port {
-    width: 360px;
-    height: 390px;
+    width: 600px;
+    height: 430px;
     background-color: blue;
     background-size: cover;
     background-position: 100% 0%;
