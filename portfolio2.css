@@ -272,6 +272,8 @@ header nav.menu-desktop ul li {
 
 section.topo-do-site {
     padding: 4rem 4%;
+    overflow-x: hidden;
+    overflow-x: clip;
 }
 
 section.topo-do-site .flex {
@@ -666,10 +668,21 @@ button:focus-visible,
         order: 1;
     }
 
+    .topo-do-site .interface {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .topo-do-site .flex > * {
+        min-width: 0;
+        max-width: 100%;
+    }
+
     .topo-do-site .txt-topo-site {
         order: 2;
         flex: 0 0 100%;
         min-width: 0;
+        overflow-wrap: break-word;
     }
 
     .topo-do-site h1 {
