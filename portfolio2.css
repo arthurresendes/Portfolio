@@ -41,6 +41,7 @@ body {
     background-color: var(--fundo);
     color: var(--texto);
     min-height: 100vh;
+    overflow-x: hidden;
     font: 100%/1.6 -apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, 'Segoe UI', Roboto, sans-serif;
     font-optical-sizing: auto;
     -webkit-font-smoothing: antialiased;
@@ -644,12 +645,8 @@ button:focus-visible,
         flex-direction: column;
     }
 
-    .topo-do-site .flex {
-        flex-direction: column-reverse;
-    }
-
     .menu-desktop,
-    .btn-contato {
+    header .btn-contato {
         display: none;
     }
 
@@ -658,11 +655,41 @@ button:focus-visible,
     }
 
     section.topo-do-site .flex {
-        gap: 2.5rem;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+
+    .topo-do-site .img-topo-site {
+        order: 1;
+    }
+
+    .topo-do-site .txt-topo-site {
+        order: 2;
+        flex: 0 0 100%;
+        min-width: 0;
+    }
+
+    .topo-do-site h1 {
+        font-size: clamp(1.9rem, 7.5vw, 2.6rem);
+        overflow-wrap: anywhere;
+        hyphens: auto;
     }
 
     .topo-do-site .txt-topo-site p {
         max-width: none;
+    }
+
+    .topo-do-site .img-topo-site img {
+        width: clamp(7rem, 38vw, 12.5rem);
+        height: auto;
+        aspect-ratio: 1;
+    }
+
+    .topo-do-site .txt-topo-site .btn-contato {
+        text-align: center;
     }
 
     section.especialidades {
